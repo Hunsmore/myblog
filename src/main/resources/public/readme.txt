@@ -1,0 +1,1 @@
+this folder is used for storing static sources, and will be packed into the jar
